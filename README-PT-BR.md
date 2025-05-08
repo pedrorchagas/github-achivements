@@ -60,7 +60,7 @@ A aparência de algumas conquistas pode ser personalizada com base na sua prefer
 
 <br>
 
-Quando você participa de determinados programas, o GitHub exibe automaticamente um selo em seu perfil. Na [documentação oficial do Github](https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) you can get more details.
+Quando você participa de determinados programas, o GitHub exibe automaticamente um selo em seu perfil. Na [documentação oficial do Github](https://docs.github.com/pt/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) você pode ver mais detalhes.
 
 |                                                                                                                                                          Badge                                                                                                                                                           |                    Nome                     |                                                          Como conseguir                                                          |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
